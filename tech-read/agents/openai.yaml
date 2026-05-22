@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tech Read"
+  short_description: "技术文章与项目的深度伴读"
+  default_prompt: "使用 $tech-read 伴读这篇技术文章，并在读完后整理成一篇技术博客。"
